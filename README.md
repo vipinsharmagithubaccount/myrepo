@@ -1,4 +1,4 @@
 # myrepo
 this is my first git repository.
 <br>
-author - vipin sharma
+author - vipin pandit
